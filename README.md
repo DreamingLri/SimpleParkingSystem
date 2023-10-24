@@ -1,2 +1,2 @@
 # SimpleParkingSystem-with-cpp
-a simple cpp peoject for my software engineering learning
+a simple cpp project for my software engineering learning
